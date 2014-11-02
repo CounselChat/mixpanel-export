@@ -1,5 +1,5 @@
 {
-    "name": "mixpanel",
+    "name": "mixpanel-export",
     "version": "0.2.1",
     "description": "Access the Mixpanel Data API from node.js",
     "author": {
@@ -20,7 +20,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "http://github.com/mixpanel/mixpanel-node.git"
+        "url": "http://github.com/Healtho/mixpanel-export.git"
     },
     "dependencies": {
         "event-stream": "3.0.x"
